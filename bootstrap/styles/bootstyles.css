@@ -1,0 +1,91 @@
+/* Last Edited April 14th, 2022, Lealand Blum */
+/* Expands and contracts the Body */
+.containerb{
+    display: grid;
+    width: 70%;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* Expands and Contracts the Header */
+.containerh{
+    width: 70%;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Expands and Contracts the Footer */
+.footer {
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 20px;
+    font-size:8pt;
+    color: black;
+    text-align: center;
+    position:fixed;
+    border-top: solid 1px lightgrey;
+    background-color: lightgrey;
+}
+
+/* Fancy (Not So fancy) Style Stuff */
+/* Custom Styles */
+.txtcenter{
+    text-align: center;
+}
+
+.whitetxt{
+    color: white;
+}
+
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    color: black;
+    text-align:center
+}
+
+.body {
+    color: white;
+    text-align: center;
+}
+
+.title2 {
+    text-underline-position: below;
+    text-decoration: underline;
+}
+
+.gren {
+    color: rgb(188, 255, 73);
+    background-color: rgb(3, 64, 126);
+}
+
+.pamk{
+    color: palegoldenrod;
+    background-color: darkslategray;
+}
+
+.ltr{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.bold{
+    font-weight: 550;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+}
+ /* Custom Background */
+.bckgrd{
+    background-image: url(../img/pexels-kai-pilger-1341279.jpg); 
+    /* Photo by Kai Pilger: https://www.pexels.com/photo/cluster-of-stars-1341279/ */
+    background-repeat: repeat-x repeat-y;
+    background-size: 50%;
+}

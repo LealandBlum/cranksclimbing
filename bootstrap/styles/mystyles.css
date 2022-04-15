@@ -1,0 +1,55 @@
+/* Last Edited April 14th, 2022, Lealand Blum */
+
+.sofun{
+    color: blueviolet;
+}
+
+.imgsize{
+    width: 250px;
+    height: auto;
+}
+.background{
+    background-color: black;
+}
+
+.hypr{
+    color: darkblue;
+    text-underline-position: below;
+    text-decoration: underline;
+}
+.hyprwht{
+    color: white;
+    text-underline-position: below;
+    text-decoration: underline;
+}
+
+.slant{
+    font-style: italic;
+    font-weight: 1500;
+}
+
+ .mid{
+     text-align: center;
+ }
+
+ .left{
+     text-align: left;
+
+ }
+
+ .txt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.photo{
+    width: 300px; 
+    height: auto;   
+}
+
+.con{
+    color: rgba(128, 128, 128, 0.575);
+}
+
+.midvid{
+    align-items: center;
+}
